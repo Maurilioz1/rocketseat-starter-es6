@@ -147,7 +147,7 @@ return `${nome} tem ${idade} anos.`;
 ```
 
 ### 5º exercício
-Utilizando o operador de rest/spread (...) realize as seguintes operações:
+Utilizando o operador de rest/spread (`...`) realize as seguintes operações:
 
 **5.1 Rest**
 
