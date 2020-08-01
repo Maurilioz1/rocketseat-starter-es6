@@ -228,7 +228,7 @@ export default class Usuario {
 
 **1.1**
 
-Agora em seu arquivo principal import apenas a classe Usuario renomeando-a para `ClasseUsuario` e chame a funão `info()`;
+Agora em seu arquivo principal importe apenas a classe Usuario renomeando-a para `ClasseUsuario` e chame a função `info()`;
 
 **1.2**
 
